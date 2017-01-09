@@ -1,0 +1,40 @@
+Bernstein           Jeremy    NY AT&T
+23
+Burke               James     WA Microsoft
+35
+Clancy              Tom       NJ Casio
+4
+Deighton            Len       NY Enteractive, Inc.
+5
+Doherty             P.C.      NY IBM Corp.
+34
+Follett             Ken       OH Hewlett Packard
+13
+Forbes              Colin     TX Raytheon
+2
+Francis             Clare     TX Texas A&M University
+145
+Frazer              Margaret  ID Micron Electronics
+3
+Frost               Charlotte WA Sierra On-Line
+2
+Furutani            Dale      JP Mitsubishi Electronics
+35
+Gregory             Susanna   UK Cambridge University
+25
+Harris              Robert    IL Symantec
+123
+Ludlum              Robert    TX Dell Computers
+25
+Newman              Sharan    CA Apple Computer
+34
+Pargeter            Edith     CA Qualcomm
+45
+Robb                Candace   CA Creative Technology
+12345
+Sedley              Kate      CA Industrial Light and Magic
+14
+Tourney             Leonard   TX Apogee Software
+235
+Trefil              James     NY NEC Technologies
+23
